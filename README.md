@@ -36,4 +36,4 @@ ytup is not affiliated with YouTube, Facebook, or any other supported website.
 
 ## Support
 
-For problems, suggestions, or feature requests, open an issue in this repository.
+For bug reports, suggestions, and feature requests, visit the ytup feedback repository.
