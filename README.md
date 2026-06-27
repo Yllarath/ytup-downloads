@@ -39,3 +39,9 @@ For bug reports, suggestions, and feature requests, visit the
 
 See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) and
 [FFMPEG_BUILD_INFO.md](FFMPEG_BUILD_INFO.md).
+
+## Screenshots
+
+![Main window](screenshots/main-window.png)
+
+![Download history](screenshots/download-history.png)
