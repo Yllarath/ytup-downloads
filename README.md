@@ -46,6 +46,7 @@ See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) and
 
 ![Download history](screenshots/download-history.png)
 
-## Demo
+## Demo video
 
-[![ytup demo](screenshots/main-window.png)](screenshots/ytup-demo.mp4)
+[Watch short ytup demo](screenshots/ytup-demo.mp4)
+
